@@ -7,3 +7,8 @@
 ### Techonologies & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,html,css,js,react,git,figma)](https://skillicons.dev)
+
+### Let's connect!
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michail-aretakis-160a69251/)
+
