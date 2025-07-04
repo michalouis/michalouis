@@ -6,7 +6,7 @@
 
 ### Techonologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,html,css,js,react,git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,react,cpp,html,css,git,figma)](https://skillicons.dev)
 
 ### Let's connect!
 
